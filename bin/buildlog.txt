@@ -1,0 +1,21 @@
+parsing
+flex pass 1
+flex pass 2
+flex pass 3
+Output pass
+Writing prg file: demo.prg
+
+Memory Map
+----------
+Default-segment:
+  $0801-$080c Basic
+  $080e-$0b13 Basic End
+  $0b60-$0b7f Sprites
+  $0c00-$0fe7 ScreenRam_1
+  $1000-$1b46 Music
+  $1c00-$1fe7 ColorRam_1:
+  $2000-$3f3f Bitmap_1
+  $4c00-$4fe7 ScreenRam_2
+  $6000-$7f3f Bitmap_2
+  $7f40-$8327 ColorRam_2:
+
