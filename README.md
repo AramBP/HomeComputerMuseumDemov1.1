@@ -11,7 +11,7 @@ Be sure to read the license if you want to use any of my code.
 This project is made in 6510 assembly(KickAssembler). 
 The art was made with retropixels and spritemate.
 
-If yoy you wnat to please check out my website:
+If you you want to please check out my website:
 https://acoti.xyz
 
 Have a nice day!
